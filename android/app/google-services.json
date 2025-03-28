@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "544938324173",
+    "project_id": "flutter-app-jhaiza",
+    "storage_bucket": "flutter-app-jhaiza.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544938324173:android:f766819ec4f3a2c8fc7984",
+        "android_client_info": {
+          "package_name": "com.example.firebase_auth_firestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7sIL9iJFdXNqbg4eKPy8SBfvXL6b6cIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
